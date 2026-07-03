@@ -15,7 +15,7 @@
           <configuration>
             <!-- put your configurations here -->
             <suiteXmlFiles>
-          <suiteXmlFile>testng.xml</suiteXmlFile>
+          <suiteXmlFile>C:\Users\HP\Desktop\myWorkspace\dockerPracticeProject\testng.xml</suiteXmlFile>
          
         </suiteXmlFiles>
          <groups>${groups}</groups>
